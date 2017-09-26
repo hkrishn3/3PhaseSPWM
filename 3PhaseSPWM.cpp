@@ -1,7 +1,4 @@
-﻿/*Begining of Auto generated code by Atmel studio */
 #include <Arduino.h>
-
-/*End of auto generated code by Atmel studio */
 
 /***************************************
  * 3-Phase SPWM Motor Controller   
